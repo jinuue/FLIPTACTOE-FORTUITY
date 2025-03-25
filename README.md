@@ -6,21 +6,16 @@
 
 ## :star: Features
 
-+ **Interactive Gameplay:** Players take turns flipping cards to reveal hidden symbols.
-+ **Random Symbol Distribution:** Symbols are randomly placed on the cards at the start of each game, including one neutral card to ensure fair gameplay.
-+ **Winning Conditions:** Align three identical symbols in a row, column, or diagonal to win.
-+ **Score Tracking:** Tracks the number of wins for Player X, Player O, and the number of draws.
-+ **Sounds Effects:** Includes sound effects for card flips, winning, drawing, restarting, and starting a new game.
-+ **Responsive Design:** The game adapts to different screen sizes and is optimized for mobile and desktop play.
-+ **Animated Background:** Includes floating X's and O's in the background for added visual interest.
-+ **How To Play Popup:** Instructions are provided to players at the beginning of the game.
++ **Random Symbol Distribution**
++ **Animated Background**
++ **How To Play Popup**
 
 ### :computer: Technical Dependencies
 
-+ **HTML5:** For structuring the game's content.
-+ **CSS3:** For styling the game's layout and animations.
-+ **JavaScript ES6+:** For implementing game logic and interactivity.
-+ **Audio Support:** Ensure your browser supports HTML5 audio elements for sound effects.
++ **HTML5**
++ **CSS3** 
++ **JavaScript ES6+** 
++ **Audio Support** 
 
 ### :memo: Setup Instructions
 1. Clone this repository:
@@ -29,8 +24,7 @@
 - `cd` flip-tac-toe
 3. Open the `index.html` file in your preferred web browser.
 - open `index.html`
-4. Test the Game:
-- After setting up, test the game to ensure that it runs as expected. Verify that all interactive elements, sound effects, and animations work correctly.
+4. Test the Game
 
 > [!NOTE]
 > If you want to jump straight into the game, click here :point_right:	[Flip Tac Toe](https://fliptactoe.netlify.app/)
