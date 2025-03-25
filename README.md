@@ -8,7 +8,6 @@
 
 + **Random Symbol Distribution**
 + **Animated Background**
-+ **How To Play Popup**
 
 ### :computer: Technical Dependencies
 
